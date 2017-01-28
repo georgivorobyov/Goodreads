@@ -1,0 +1,6 @@
+D:\Users\Georgi\University\Poetry\Poetry\obj\Debug\Poetry.csprojResolveAssemblyReference.cache
+D:\Users\Georgi\University\Poetry\Poetry\bin\Poetry.dll.config
+D:\Users\Georgi\University\Poetry\Poetry\bin\Poetry.dll
+D:\Users\Georgi\University\Poetry\Poetry\bin\Poetry.pdb
+D:\Users\Georgi\University\Poetry\Poetry\obj\Debug\Poetry.dll
+D:\Users\Georgi\University\Poetry\Poetry\obj\Debug\Poetry.pdb
